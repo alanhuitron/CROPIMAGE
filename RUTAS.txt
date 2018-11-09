@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/41144898/android-camera-intent-fileuriexposedexception-for-sdk-24
+https://stackoverflow.com/questions/48990967/android-os-fileuriexposedexception-file-storage-emulated-0-pictures-picfolde
+https://inthecheesefactory.com/blog/how-to-share-access-to-file-with-fileprovider-on-android-nougat/en
+https://github.com/nuuneoi/Lab-Intent-FileProvider
+https://android.jlelse.eu/androids-new-image-capture-from-a-camera-using-file-provider-dd178519a954
+https://github.com/prudhvirajkumar10/imagepickerdemo
